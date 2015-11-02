@@ -19,7 +19,8 @@
 	],
 	"require": {
 		"php": ">=5.4.0",
-        	"kamisama/php-resque-ex": "1.*"
+        	"kamisama/php-resque-ex": "1.*",
+        	"chrisboulton/php-resque": "^1.2"
 	},
 	"suggest": {
 		"kamisama/php-resque-scheduler": "Enables the use of the ResqueScheduler functionality."
